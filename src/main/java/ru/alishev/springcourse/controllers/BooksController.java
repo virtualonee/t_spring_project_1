@@ -12,9 +12,7 @@ import ru.alishev.springcourse.models.Person;
 
 import javax.validation.Valid;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 @RequestMapping("/books")
 public class BooksController {
